@@ -9,7 +9,7 @@ Eai! Me chamo Pedro Augusto 👋
 <div>
   <a href="https://github.com/pedroaugustos12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroaugustos12&show_icons=true&theme=merko&include_all_comits=true&count_private=true=contribs,prs)"/>]
-## 
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
