@@ -9,9 +9,6 @@ Eai! Me chamo Pedro Augusto 👋
 <div>
   <a href="https://github.com/pedroaugustos12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroaugustos12&show_icons=true&theme=merko&include_all_comits=true&count_private=true=contribs,prs)"/>]
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaugustos12&layout=compact&langs_count=168=theme=merko"/>
-</div>
-
 ## 
 
 <div style="display: inline_block"><br>
