@@ -1,3 +1,9 @@
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
+
+
 Eai! Me chamo Pedro Augusto 👋
 
 - 💻 Atualmente só estudando
@@ -5,6 +11,8 @@ Eai! Me chamo Pedro Augusto 👋
 - 📫 Contatos: pedroaugustosdev@gmail.com
 
 # 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zkrtxe5tyrthpj3374yhdseqku&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div>
   <a href="https://github.com/pedroaugustos12">
