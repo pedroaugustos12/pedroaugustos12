@@ -1,10 +1,10 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World 👋 </h1></summary>
 </div>
 
 
-Eai! Me chamo Pedro Augusto 👋
+Eai! Me chamo Pedro Augusto.
 
 - 💻 Atualmente só estudando
 - 🌱 Estudando HTML,CSS E JAVASCRIPT
