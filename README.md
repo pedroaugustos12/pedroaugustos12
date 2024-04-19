@@ -16,8 +16,8 @@ Eai! Me chamo Pedro Augusto.
 
 <div>
   <a href="https://github.com/pedroaugustos12">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroaugustos12&show_icons=true&theme=merko&include_all_comits=true&count_private=true=contribs,prs)"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroaugustos12&layout=compact&langs_count=8&card_width=320&theme=merko" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=pedroaugustos12&show_icons=true&theme=merko&include_all_comits=true&count_private=true=contribs,prs)"/>
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroaugustos12&layout=compact&langs_count=8&card_width=320&theme=merko" />
 </a>
 
 </a>
