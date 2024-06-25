@@ -6,7 +6,7 @@
 
 Eai! Me chamo Pedro Augusto.
 
-- 💻 Atualmente só estudando
+- 💻 Atualmente estudando!
 - 🌱 Estudando HTML,CSS E JAVASCRIPT
 - 📫 Contatos: pedroaugustosdev@gmail.com
 
